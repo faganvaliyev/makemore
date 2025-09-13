@@ -1,5 +1,5 @@
 # 🔤 Makemore: From Bigrams to Mini-GPT
-This repository is my personal learning journey inspired by [Andrej Karpathy's](https://www.youtube.com/@karpathy) legendary series on building a character-level language model from scratch, step by step. The goal: **to understand how modern language models work under the hood** by implementing everything from basic bigrams to a tiny GPT.
+This repository is my personal learning journey inspired by [Andrej Karpathy's](https://www.youtube.com/@AndrejKarpathy) legendary series on building a character-level language model from scratch, step by step. The goal: **to understand how modern language models work under the hood** by implementing everything from basic bigrams to a tiny GPT.
 
 ## 📚 Contents
 
